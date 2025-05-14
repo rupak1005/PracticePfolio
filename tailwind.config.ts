@@ -23,7 +23,7 @@ const config: Config = {
     extend: {
       fontFamily:{
         sans:'var(--font-sans)',
-        serif: 'var(--fonr-serif)',
+        serif: 'var(--font-serif)',
 
       }
     },
