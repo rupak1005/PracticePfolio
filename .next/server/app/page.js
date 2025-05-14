@@ -12,17 +12,6 @@ exports.id = "app/page";
 exports.ids = ["app/page"];
 exports.modules = {
 
-/***/ "./action-async-storage.external":
-/*!****************************************************************************!*\
-  !*** external "next/dist/client/components/action-async-storage.external" ***!
-  \****************************************************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("next/dist/client/components/action-async-storage.external");
-
-/***/ }),
-
 /***/ "../../client/components/action-async-storage.external":
 /*!*******************************************************************************!*\
   !*** external "next/dist/client/components/action-async-storage.external.js" ***!
@@ -34,17 +23,6 @@ module.exports = require("next/dist/client/components/action-async-storage.exter
 
 /***/ }),
 
-/***/ "./request-async-storage.external":
-/*!*****************************************************************************!*\
-  !*** external "next/dist/client/components/request-async-storage.external" ***!
-  \*****************************************************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("next/dist/client/components/request-async-storage.external");
-
-/***/ }),
-
 /***/ "../../client/components/request-async-storage.external":
 /*!********************************************************************************!*\
   !*** external "next/dist/client/components/request-async-storage.external.js" ***!
@@ -53,17 +31,6 @@ module.exports = require("next/dist/client/components/request-async-storage.exte
 
 "use strict";
 module.exports = require("next/dist/client/components/request-async-storage.external.js");
-
-/***/ }),
-
-/***/ "./static-generation-async-storage.external":
-/*!***************************************************************************************!*\
-  !*** external "next/dist/client/components/static-generation-async-storage.external" ***!
-  \***************************************************************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("next/dist/client/components/static-generation-async-storage.external");
 
 /***/ }),
 
@@ -181,7 +148,7 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"69b34e4241ac\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvYXBwL2dsb2JhbHMuY3NzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxpRUFBZSxjQUFjO0FBQzdCLElBQUksS0FBVSxFQUFFLEVBQXVCIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcG9ydGZvbGlvLXNpdGUtMi8uL3NyYy9hcHAvZ2xvYmFscy5jc3M/NjNkNyJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcIjY5YjM0ZTQyNDFhY1wiXG5pZiAobW9kdWxlLmhvdCkgeyBtb2R1bGUuaG90LmFjY2VwdCgpIH1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./src/app/globals.css\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"cb3e95f10362\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvYXBwL2dsb2JhbHMuY3NzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxpRUFBZSxjQUFjO0FBQzdCLElBQUksS0FBVSxFQUFFLEVBQXVCIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcG9ydGZvbGlvLXNpdGUtMi8uL3NyYy9hcHAvZ2xvYmFscy5jc3M/NjNkNyJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcImNiM2U5NWYxMDM2MlwiXG5pZiAobW9kdWxlLmhvdCkgeyBtb2R1bGUuaG90LmFjY2VwdCgpIH1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./src/app/globals.css\n");
 
 /***/ }),
 
@@ -214,7 +181,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Header: () => (/* binding */ Header)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nconst Header = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex justify-center items-center fixed top-3 w-full\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"nav\", {\n            className: \"flex gap-1 p-0.5 border border-white/70 rounded-full backdrop-blur bg-white/10\",\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item\",\n                    children: \"Home\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 4,\n                    columnNumber: 5\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item\",\n                    children: \"Projects\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 5,\n                    columnNumber: 5\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item\",\n                    children: \"About\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 6,\n                    columnNumber: 5\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item bg-white text-gray-900 hover:bg-white/70 hover:text-gray-900 \",\n                    children: \"Contact\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 7,\n                    columnNumber: 5\n                }, undefined)\n            ]\n        }, void 0, true, {\n            fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n            lineNumber: 3,\n            columnNumber: 5\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n        lineNumber: 2,\n        columnNumber: 10\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvc2VjdGlvbnMvSGVhZGVyLnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7O0FBQU8sTUFBTUEsU0FBUztJQUNwQixxQkFBTyw4REFBQ0M7UUFBSUMsV0FBVTtrQkFDcEIsNEVBQUNDO1lBQUlELFdBQVU7OzhCQUNmLDhEQUFDRTtvQkFBRUMsTUFBSztvQkFBSUgsV0FBVTs4QkFBVzs7Ozs7OzhCQUNqQyw4REFBQ0U7b0JBQUVDLE1BQUs7b0JBQUlILFdBQVU7OEJBQVc7Ozs7Ozs4QkFDakMsOERBQUNFO29CQUFFQyxNQUFLO29CQUFJSCxXQUFVOzhCQUFXOzs7Ozs7OEJBQ2pDLDhEQUFDRTtvQkFBRUMsTUFBSztvQkFBSUgsV0FBVTs4QkFBeUU7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBRW5HLEVBQUUiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9wb3J0Zm9saW8tc2l0ZS0yLy4vc3JjL3NlY3Rpb25zL0hlYWRlci50c3g/MTBlNCJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgSGVhZGVyID0gKCkgPT4ge1xuICByZXR1cm4gPGRpdiBjbGFzc05hbWU9XCJmbGV4IGp1c3RpZnktY2VudGVyIGl0ZW1zLWNlbnRlciBmaXhlZCB0b3AtMyB3LWZ1bGxcIj5cbiAgICA8bmF2IGNsYXNzTmFtZT1cImZsZXggZ2FwLTEgcC0wLjUgYm9yZGVyIGJvcmRlci13aGl0ZS83MCByb3VuZGVkLWZ1bGwgYmFja2Ryb3AtYmx1ciBiZy13aGl0ZS8xMFwiPlxuICAgIDxhIGhyZWY9XCIjXCIgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5Ib21lPC9hPlxuICAgIDxhIGhyZWY9XCIjXCIgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5Qcm9qZWN0czwvYT5cbiAgICA8YSBocmVmPVwiI1wiIGNsYXNzTmFtZT1cIm5hdi1pdGVtXCI+QWJvdXQ8L2E+XG4gICAgPGEgaHJlZj1cIiNcIiBjbGFzc05hbWU9XCJuYXYtaXRlbSBiZy13aGl0ZSB0ZXh0LWdyYXktOTAwIGhvdmVyOmJnLXdoaXRlLzcwIGhvdmVyOnRleHQtZ3JheS05MDAgXCI+Q29udGFjdDwvYT48L25hdj5cbiAgPC9kaXY+OyAgICBcbn07XG4iXSwibmFtZXMiOlsiSGVhZGVyIiwiZGl2IiwiY2xhc3NOYW1lIiwibmF2IiwiYSIsImhyZWYiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./src/sections/Header.tsx\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Header: () => (/* binding */ Header)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nconst Header = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex justify-center items-center fixed top-3 w-full z-50\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"nav\", {\n            className: \"flex gap-1 p-0.5 border border-white/70 rounded-full backdrop-blur bg-white/10\",\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item\",\n                    children: \"Home\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 4,\n                    columnNumber: 5\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item\",\n                    children: \"Projects\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 5,\n                    columnNumber: 5\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item\",\n                    children: \"About\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 6,\n                    columnNumber: 5\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                    href: \"#\",\n                    className: \"nav-item bg-white text-gray-900 hover:bg-white/70 hover:text-gray-900 \",\n                    children: \"Contact\"\n                }, void 0, false, {\n                    fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n                    lineNumber: 7,\n                    columnNumber: 5\n                }, undefined)\n            ]\n        }, void 0, true, {\n            fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n            lineNumber: 3,\n            columnNumber: 5\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"/home/deadlyr/portfolio-next/src/sections/Header.tsx\",\n        lineNumber: 2,\n        columnNumber: 10\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvc2VjdGlvbnMvSGVhZGVyLnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7O0FBQU8sTUFBTUEsU0FBUztJQUNwQixxQkFBTyw4REFBQ0M7UUFBSUMsV0FBVTtrQkFDcEIsNEVBQUNDO1lBQUlELFdBQVU7OzhCQUNmLDhEQUFDRTtvQkFBRUMsTUFBSztvQkFBSUgsV0FBVTs4QkFBVzs7Ozs7OzhCQUNqQyw4REFBQ0U7b0JBQUVDLE1BQUs7b0JBQUlILFdBQVU7OEJBQVc7Ozs7Ozs4QkFDakMsOERBQUNFO29CQUFFQyxNQUFLO29CQUFJSCxXQUFVOzhCQUFXOzs7Ozs7OEJBQ2pDLDhEQUFDRTtvQkFBRUMsTUFBSztvQkFBSUgsV0FBVTs4QkFBeUU7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBRW5HLEVBQUUiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9wb3J0Zm9saW8tc2l0ZS0yLy4vc3JjL3NlY3Rpb25zL0hlYWRlci50c3g/MTBlNCJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgSGVhZGVyID0gKCkgPT4ge1xuICByZXR1cm4gPGRpdiBjbGFzc05hbWU9XCJmbGV4IGp1c3RpZnktY2VudGVyIGl0ZW1zLWNlbnRlciBmaXhlZCB0b3AtMyB3LWZ1bGwgei01MFwiPlxuICAgIDxuYXYgY2xhc3NOYW1lPVwiZmxleCBnYXAtMSBwLTAuNSBib3JkZXIgYm9yZGVyLXdoaXRlLzcwIHJvdW5kZWQtZnVsbCBiYWNrZHJvcC1ibHVyIGJnLXdoaXRlLzEwXCI+XG4gICAgPGEgaHJlZj1cIiNcIiBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPkhvbWU8L2E+XG4gICAgPGEgaHJlZj1cIiNcIiBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlByb2plY3RzPC9hPlxuICAgIDxhIGhyZWY9XCIjXCIgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5BYm91dDwvYT5cbiAgICA8YSBocmVmPVwiI1wiIGNsYXNzTmFtZT1cIm5hdi1pdGVtIGJnLXdoaXRlIHRleHQtZ3JheS05MDAgaG92ZXI6Ymctd2hpdGUvNzAgaG92ZXI6dGV4dC1ncmF5LTkwMCBcIj5Db250YWN0PC9hPjwvbmF2PlxuICA8L2Rpdj47ICAgIFxufTtcbiJdLCJuYW1lcyI6WyJIZWFkZXIiLCJkaXYiLCJjbGFzc05hbWUiLCJuYXYiLCJhIiwiaHJlZiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./src/sections/Header.tsx\n");
 
 /***/ }),
 
